@@ -17,7 +17,6 @@ I'm currently pursuing my **MCA at KIET Group of Institutions (2024-26)**, with 
 
 ###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nikita-agarwal-365a8b239/)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-purple?logo=react&style=for-the-badge)](https://your-portfolio.vercel.app)
 
 ---
 
